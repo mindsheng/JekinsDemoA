@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 public class BaseDAO {
-	private static Properties properties=new Properties();
+	private static Properties properties=new Properties();//ÊôĞÔÎÄ¼ş
 	private static String driver;
 	private static String url;
 	private static String user;
